@@ -6,13 +6,23 @@ body {
 #slider, #content {
     padding: 15px 0;
     background-color: #ffffff;
-    /*border-radius: 5px 5px 0 0;*/
+    border-radius: 5px 5px 0 0;
 }
 
 #content {
     margin-top: -15px;
-    text-align: center;
+	text-align: justify;
+	padding: 15px 15px 0 15px;
+	width: 100%;
 }
+
+#articles {
+	width: 65%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.leftfoto {float:left; width: 20%; margin: 10px;}
 
 #footer {
     height: 60px;
