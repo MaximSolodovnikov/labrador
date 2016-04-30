@@ -58,22 +58,32 @@
 						<div class="col-lg-3">
 							<p class="date_of_article">Дата: 30-04-2016</p><br>
 						</div>
-						<img src="images/news/1.jpeg" alt="" class="preview_img_of_article">
-						<div class="text_of_article">
-							Сам тоже ставил сия произведение, зачетно смотряться, светят только как ДХО, если корнер или любите ездить в тумане то забудьте о свете...подключать на прямую - горит ошибка, ставить обманку, греется обманка...мне делал ОД через габариты, кидал провода с габаритов, ВАСей отключил ПТФ и поставил ДХО габариты, тогда все будет светить, там три провода : два плюса (50 и 100% накала) и минус, плюс нужн	
-						</div><br>
-						<img src="images/news/1.jpeg" alt="" class="img_of_article">
-						<img src="images/news/1.jpeg" alt="" class="img_of_article">
-						<img src="images/news/1.jpeg" alt="" class="img_of_article">
-						<img src="images/news/1.jpeg" alt="" class="img_of_article">
-						<img src="images/news/1.jpeg" alt="" class="img_of_article">
-						<img src="images/news/1.jpeg" alt="" class="img_of_article">
-					</div>
 						
+							<img src="images/news/1.jpeg" alt="" class="preview_img_of_article">
+							<div class="text_of_article">
+								Вже давно відомо, що читабельний зміст буде заважати зосередитись людині, яка оцінює композицію сторінки. Сенс використання Lorem Ipsum полягає в тому, що цей текст має більш-менш нормальне розподілення літер на відміну від, наприклад, "Тут іде текст. Тут іде текст." Це робить текст схожим на оповідний. Багато програм верстування та веб-дизайну використовують Lorem Ipsum як зразок і пошук за терміном "lorem ipsum" відкриє багато веб-сайтів, які знаходяться ще в зародковому стані. Різні версії Lorem Ipsum з'явились за минулі роки.
+								Вже давно відомо, що читабельний зміст буде заважати зосередитись людині, яка оцінює композицію сторінки. Сенс використання Lorem Ipsum полягає в тому, що цей текст має більш-менш нормальне розподілення літер на відміну від, наприклад, "Тут іде текст. Тут іде текст." Це робить текст схожим на оповідний. Багато програм верстування та веб-дизайну використовують Lorem Ipsum як зразок і пошук за терміном "lorem ipsum" відкриє багато веб-сайтів, які знаходяться ще в зародковому стані. Різні версії Lorem Ipsum з'явились за минулі роки, деякі випадково, деякі було створено зумисно (зокрема, жартівливі).							
+							</div><br>	
+						
+						<div class="row">
+							<div class="col-lg-3">
+								<img src="images/news/1.jpeg" alt="" class="img-responsive img_of_article">
+							</div>
+							<div class="col-lg-3">
+								<img src="images/news/1.jpeg" alt="" class="img-responsive img_of_article">
+							</div>
+							<div class="col-lg-3">
+								<img src="images/news/1.jpeg" alt="" class="img-responsive img_of_article">
+							</div>
+							<div class="col-lg-3">
+								<img src="images/news/1.jpeg" alt="" class="img-responsive img_of_article">
+							</div>
+						</div>
+					</div><br>
 				</div>
-            </div>
-
-            <div class="row" id="footer">
+			</div>
+			
+			<div class="row" id="footer">
                 <div class="col-lg-12">
                     
                     <!-- BOTTOM-MENU -->
@@ -101,10 +111,11 @@
                         </div>
                     </nav>
                     <!-- END BOTTOM-MENU -->
-                    
                 </div>
             </div>
-        </div>
+			
+		</div>
+		
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
         <!-- Include all compiled plugins (below), or include individual files as needed -->
