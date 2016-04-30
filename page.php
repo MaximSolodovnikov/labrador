@@ -33,7 +33,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a href=""><img src="images/logo.png" alt="logosite"></a>
+                        <a href="#"><img src="images/logo.png" alt="logosite"></a>
                     </div>
 
                     <div class="collapse navbar-collapse" id="topmenu">
@@ -49,12 +49,6 @@
             </nav>
             <!-- END TOP-MENU -->
             
-            <div class="row" id="slider">
-                <div class="col-lg-12">
-                    <img class="img-responsive" src="images/goods/1.jpg" alt="">
-                </div>
-            </div>
-            
             <div class="row" id="content">
 				<div class="col-lg-12">
 					<div id="articles">
@@ -64,41 +58,18 @@
 						<div class="col-lg-3">
 							<p class="date_of_article">Дата: 30-04-2016</p><br>
 						</div>
-						<a href="page.php"><img src="images/news/1.jpeg" alt="" class="preview_img_of_article"></a>
+						<img src="images/news/1.jpeg" alt="" class="preview_img_of_article">
 						<div class="text_of_article">
-							Сам тоже ставил сия произведение, зачетно смотряться, светят только как ДХО, если корнер или любите ездить в тумане то забудьте о свете...подключать на прямую - горит ошибка, ставить обманку, греется обманка...мне делал ОД через габариты, кидал провода с габаритов, ВАСей отключил ПТФ и поставил ДХО габариты, тогда все будет светить
-							<a class="link_of_article" href="page.php">Читать &raquo;</a>
+							Сам тоже ставил сия произведение, зачетно смотряться, светят только как ДХО, если корнер или любите ездить в тумане то забудьте о свете...подключать на прямую - горит ошибка, ставить обманку, греется обманка...мне делал ОД через габариты, кидал провода с габаритов, ВАСей отключил ПТФ и поставил ДХО габариты, тогда все будет светить, там три провода : два плюса (50 и 100% накала) и минус, плюс нужн	
 						</div><br>
+						<img src="images/news/1.jpeg" alt="" class="img_of_article">
+						<img src="images/news/1.jpeg" alt="" class="img_of_article">
+						<img src="images/news/1.jpeg" alt="" class="img_of_article">
+						<img src="images/news/1.jpeg" alt="" class="img_of_article">
+						<img src="images/news/1.jpeg" alt="" class="img_of_article">
+						<img src="images/news/1.jpeg" alt="" class="img_of_article">
 					</div>
 						
-					<div id="articles">
-						<div class="col-lg-9">
-							<a href="page.php" class="title_of_article">ОД через габариты</a>
-						</div>
-						<div class="col-lg-3">
-							<p class="date_of_article">Дата: 30-04-2016</p><br>
-						</div>
-						<a href="page.php"><img src="images/news/1.jpeg" alt="" class="preview_img_of_article"></a>
-						<div class="text_of_article">
-							Сам тоже ставил сия произведение, зачетно смотряться, светят только как ДХО, если корнер или любите ездить в тумане то забудьте о свете...подключать на прямую - горит ошибка, ставить обманку, греется обманка...мне делал ОД через габариты, кидал провода с габаритов, ВАСей отключил ПТФ и поставил ДХО габариты, тогда все будет светить
-							<a class="link_of_article" href="page.php">Читать &raquo;</a>
-						</div><br>
-					</div>
-						
-					<div id="articles">
-						<div class="col-lg-9">
-							<a href="page.php" class="title_of_article">ОД через габариты</a>
-						</div>
-						<div class="col-lg-3">
-							<p class="date_of_article">Дата: 30-04-2016</p><br>
-						</div>
-						<a href="page.php"><img src="images/news/1.jpeg" alt="" class="preview_img_of_article"></a>
-						<div class="text_of_article">
-							Сам тоже ставил сия произведение, зачетно смотряться, светят только как ДХО, если корнер или любите ездить в тумане то забудьте о свете...подключать на прямую - горит ошибка, ставить обманку, греется обманка...мне делал ОД через габариты, кидал провода с габаритов, ВАСей отключил ПТФ и поставил ДХО габариты, тогда все будет светить
-							<a class="link_of_article" href="page.php">Читать &raquo;</a>
-						</div><br>
-					</div>
-					
 				</div>
             </div>
 
