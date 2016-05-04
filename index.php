@@ -5,7 +5,8 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-        <title>Bootstrap 101 Template</title>
+        <title>Лабрадор</title>
+		<link rel="icon" href="favicon.png">
 
         <!-- Bootstrap -->
         <link href="css/bootstrap.css" rel="stylesheet">
@@ -42,7 +43,7 @@
                             <li><a href="">Новости</a></li>
                             <li><a href="">Наши собаки</a></li>
                             <li><a href="">Щенки</a></li>
-                            <li><a href="">Контакты</a></li>
+                            <li><a href="index.php/views/admin.php">Контакты</a></li>
                         </ul>
                     </div>
                 </div>
